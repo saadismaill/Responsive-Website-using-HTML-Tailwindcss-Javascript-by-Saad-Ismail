@@ -20,19 +20,6 @@ Dynamic Interactions: JavaScript-driven animations and behaviors
 
 
 
-🚀 Getting Started
-
-Clone the repository:
-
-git clone https://github.com/yourusername/responsive-website.git
-
-Navigate to the project directory:
-
-cd responsive-website
-
-Open index.html in your browser to see the website in action.
-
-
 
 🤝 Contributing
 
